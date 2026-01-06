@@ -1,28 +1,23 @@
 ---
-title: "How to make toys from old Olarpaper"
-date: 2022-04-04T01:00:00Z
+title: How to make toys from old Olarpaper
+date: 2022-04-04T01:00:00.000Z
 image: /images/post/post-1.png
-categories: ["programming"]
+categories:
+  - programming
 featured: true
 draft: false
 ---
+Hello!
 
-```js
-export function sum(a, b) {
-  return a + b;
-}
-```
-
-```tsx
+```typescript
 const Button = ({ label }) => <button>{label}</button>
 ```
 
-```ts {1,3-4}
+```ts
 function add(a: number, b: number) {
   return a + b;
 }
 ```
-
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
@@ -37,6 +32,7 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 ![alter-text](/images/post/post-1.png)
+
 _Example Caption_
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
